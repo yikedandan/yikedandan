@@ -1,2 +1,2 @@
 # AR Library
-This is a website for an AR Library! You can view it [here](Unnoticed white.html)!
+This is a website for an AR Library! You can view it [here](unnoticed white.html)!
